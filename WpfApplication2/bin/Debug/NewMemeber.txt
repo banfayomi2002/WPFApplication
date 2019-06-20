@@ -1,0 +1,12 @@
+**********Fitness Guru Customer Information**********
+First Name: 
+Last Name:  
+DOB:  1912  
+Address:  
+City: 
+Province: 
+Postal Code: 
+Comments:  
+Trainer: 
+Program Level:  
+Billing Info: 
